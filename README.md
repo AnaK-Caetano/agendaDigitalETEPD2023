@@ -4,7 +4,15 @@ Recriação do projeto de agenda digital desenvolvido durante a disciplina Proje
 ## Autora
 
 [Ana Karina Caetano](https://github.com/AnaK-Caetano) ---- akcsm@discente.ifpe.edu.com / akcsm@etepd.com
-## Screenshots
+## Usado por
+
+Esse projeto será usado pela Escola Técnica Estadual Porto Digital
+
+## Documentação
+
+[Documentação](https://link-da-documentação)
+
+## Protótipos de Alta fidelidade
 
 <img src="prototipo/home.png"> \
 <img src="prototipo/login.png"> \
@@ -15,11 +23,3 @@ Recriação do projeto de agenda digital desenvolvido durante a disciplina Proje
 <img src="prototipo/agenda_semanal.png"> \
 <img src="prototipo/recuperar_senha.png"> \
 <img src="prototipo/msg_recuperar_senha.png"> 
-## Usado por
-
-Esse projeto será usado pela Escola Técnica Estadual Porto Digital
-
-## Documentação
-
-[Documentação](https://link-da-documentação)
-
